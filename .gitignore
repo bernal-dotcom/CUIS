@@ -6,3 +6,6 @@ __pycache__/
 # Environments
 .venv
 venv/
+
+# Example-data
+seed_data.py
